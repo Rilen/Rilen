@@ -1,6 +1,6 @@
 # Olá, sou um Cientista de Dados e 📊🎲
-## Especialização em Big Data. 🌐🔍
-### Atuo mais de 25 anos na área de TI. 💾🔧
+### Especialização em Big Data. 🌐🔍
+#### Atuo mais de 25 anos na área de TI. 💾🔧
 #### Curioso e entusiasta de IA e Mineração de Dados. 🤖⛏️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilen&show_icons=true&theme=holi)

@@ -1,10 +1,10 @@
-### Olá, sou um Cientista de Dados e 📊🎲 Especialista em Big Data. 🌐🔍
-#### Atuo mais de 25 anos na área de TI. 💾🔧 e sou curioso e entusiasta de IA e Mineração de Dados. 🤖⛏️
+## Olá, sou um Cientista de Dados e 📊🎲 Especialista em Big Data. 🌐🔍
+#### Atuo mais de 25 anos na área de TI. 💾🔧, sou curioso e entusiasta de IA e Mineração de Dados. 🤖⛏️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilen&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rilen&layout=compact&theme=holi)
 
-# Some tools that I'm working with 🔨
+## Algumas ferramentas com as quais estou usando 🔨
 
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6600cc?style=for-the-badge&logo=llamaindex&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -20,30 +20,30 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-FF4B4B?style=for-the-badge&logo=terminal&logoColor=white)
 
-# Projects Portfolio 📂
+## Projetos 📂
 
 - [Products Classification with AI](https://github.com/ChristianoDS/products_classification)
 - [Sales Forecasting](https://github.com/ChristianoDS/rossmann_project)
 - [Zomato Data Analysis](https://github.com/ChristianoDS/zomato_project)
 - [Machine Learning Tests](https://github.com/ChristianoDS/ensaio-machine-learning)
 
-# Papers 📑
+<!--# Papers 📑
 #### I have published a paper in a renowned scientific journal applying machine learning in my Phd research. 📝
 
-### [Paper](https://www.sciencedirect.com/science/article/pii/S2212982024000155)
+### [Paper](https://www.sciencedirect.com/science/article/pii/S2212982024000155)-->
 
 
-# I’m currently learning about 📖
+# Atualmente continuo aprendendo sobre 📖
 - Data Science
 - Machine Learning
 - Gen. IA
 - Artificial Inteligence
 - Storytelling
 
-# Contact Me 📧
+# Meus links 📧
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rilen.github.io/portfolio_ds/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rilen.lima@gmail.com)
 
 

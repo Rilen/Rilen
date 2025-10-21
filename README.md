@@ -1,7 +1,7 @@
-# 🚀 Hello world, I'm Rilen T. L. 👋
-
-#### I'm Data Scientist and Phd Sudent. 🔬💻
-#### Fun fact: I'm a data enthusiast 🎲 and music lover 🤘
+# Olá, sou um Cientista de Dados e 📊🎲
+## Especialização em Big Data. 🌐🔍
+### Atuo mais de 25 anos na área de TI. 💾🔧
+#### Curioso e entusiasta de IA e Mineração de Dados. 🤖⛏️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilen&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rilen&layout=compact&theme=holi)

@@ -1,60 +1,65 @@
-## Olá, sou um Cientista de Dados e 📊🎲 Especialista em Big Data. ⛏️🔍
-#### Atuo mais de 25 anos na área de TI. 💾🔧 e entusiasta da evolução da tecnologia. 🤖🌐
+# 🌟 Rilen - Cientista de Dados | Portfolio Showcase 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilen&show_icons=true&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rilen&layout=compact&theme=holi)
+## Olá, sou um **Cientista de Dados** e **Especialista em Big Data** ⛏️🔍
 
-## Algumas ferramentas com as quais estou usando 🔨
+Atuo há **mais de 25 anos na área de TI** 💾🔧 e sou um entusiasta da evolução da tecnologia e da Inteligência Artificial. 🤖🌐
 
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6600cc?style=for-the-badge&logo=llamaindex&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-FF4B4B?style=for-the-badge&logo=terminal&logoColor=white)
+---
 
-## Projetos 📂
+## 🎯 Portfólio Completo e Projetos Detalhados
 
-- [Gerador de gráfico do arquivo Excel](https://github.com/Rilen/xlsx2chart)
-- Em breve mais projetos...
+Para uma experiência visual completa do meu trabalho, dos modelos de Machine Learning e dos Dashboards que desenvolvi, visite meu portfólio interativo:
 
-<!--
-- [Sales Forecasting](https://github.com/ChristianoDS/rossmann_project)
-- [Zomato Data Analysis](https://github.com/ChristianoDS/zomato_project)
-- [Machine Learning Tests](https://github.com/ChristianoDS/ensaio-machine-learning)
--->
+➡️ **[ACESSE O MEU SHOWCASE (PORTFÓLIO VISUAL) AQUI](https://rilen.github.io/portfolio/)**
 
-<!--
-# Papers 📑
-#### I have published a paper in a renowned scientific journal applying machine learning in my Phd research. 📝
+---
 
-### [Paper](https://www.sciencedirect.com/science/article/pii/S2212982024000155)
--->
+## 🛠️ Minhas Ferramentas e Stacks Principais
 
+Minha capacidade de entrega é construída com as seguintes tecnologias:
 
-## Atualmente continuo aprendendo sobre 📖
-- Data Science
-- Machine Learning
-- Gen. IA
-- Artificial Inteligence
-- Storytelling
+| Categoria | Ferramentas |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Data Science/ML** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6600cc?style=for-the-badge&logo=llamaindex&logoColor=white) |
+| **DevOps/Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Visualização/Web** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-## Meus links 📧
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rilen.github.io/portfolio_ds/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rilen.lima@gmail.com)
+## 📈 Estatísticas e Insights
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rilen&show_icons=true&theme=holi" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilen&layout=compact&theme=holi" alt="Linguagens mais usadas" />
+</p>
 
+---
 
+## 📂 Projetos Destacados
 
+No meu portfólio, você encontrará a descrição completa, metodologia e resultados dos seguintes projetos:
 
+- **[Gerador de gráfico do arquivo Excel](https://github.com/Rilen/xlsx2chart):** Automação e extração de insights de dados brutos.
+- **[Previsão de Churn (ML)](https://github.com/rilen/PROJETO-CHURN-REAL):** Modelo de classificação para retenção de clientes.
+- **[Otimização Agrícola (Geoprocessamento)](https://github.com/rilen/PROJETO-GEOPROCESSAMENTO-AGRO):** Análise geoespacial aplicada.
+- *Em breve mais projetos e casos de uso...*
 
+---
 
+## 📖 Atualmente Focado em Aprofundamento
+
+- Data Science e Deep Learning
+- Machine Learning (Avançado)
+- Inteligência Artificial Generativa (Gen. IA)
+- Storytelling e Comunicação de Dados
+
+---
+
+## 📧 Meus Links Profissionais
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/) |
+| **Email** | [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rilen.lima@gmail.com) |
+| **Showcase Visual** | [![Portfolio](https://img.shields.io/badge/Portfólio%20Visual-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rilen.github.io/portfolio/) |

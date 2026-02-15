@@ -2,7 +2,7 @@
 
 ## Olá, sou um **Cientista de Dados** e **Especialista em Big Data** ⛏️🔍
 
-Atuo há **mais de 25 anos na área de TI** 💾🔧 e sou um entusiasta da evolução da tecnologia e da Inteligência Artificial. 🤖🌐
+Atuo há **mais de 25 anos na área de TI** e sou um entusiasta da evolução da tecnologia e da Inteligência Artificial. Minha trajetória permite unir a robustez da infraestrutura tradicional com a agilidade das soluções analíticas modernas.
 
 ---
 
@@ -27,38 +27,29 @@ Minha capacidade de entrega é construída com as seguintes tecnologias:
 
 ---
 
-## 📈 Estatísticas e Insights
+## 📂 Projetos em Destaque
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rilen&show_icons=true&theme=holi" alt="Estatísticas do GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilen&layout=compact&theme=holi" alt="Linguagens mais usadas" />
-</p>
+Minha expertise envolve transformar a complexidade de Big Data em automação e resultados mensuráveis:
 
----
-
-## 📂 Projetos Destacados
-
-No meu portfólio, você encontrará a descrição completa, metodologia e resultados dos seguintes projetos:
-
-- **[Gerador de gráfico de Dados obtidos pelo arquivo Excel](https://github.com/Rilen/xlsx2chart):**
-- **[Análise Preditiva de Estresse Hídrico Agrícola](https://github.com/rilen/IrrigaSeca):**
-- *Em breve mais projetos e casos de uso...*
+- **[IrrigaSeca - Análise Preditiva de Estresse Hídrico](https://github.com/rilen/IrrigaSeca):** Sistema inteligente de irrigação de precisão que utiliza IA, GeoData e conceitos de MLOps para otimização no agronegócio.
+- **[xlsx2chart - Excel em Insights](https://github.com/Rilen/xlsx2chart):** Ferramenta de automação que gera gráficos a partir de arquivos Excel, facilitando a visualização rápida de dados.
+- **[Geoprocessamento Agro](https://github.com/rilen/PROJETO-GEOPROCESSAMENTO-AGRO):** Análise para monitoramento de saúde de culturas através de dados geoespaciais.
 
 ---
 
-## 📖 Atualmente Focado em Aprofundamento
+## 📈 Especialidades & Visão de Negócio
 
-- Data Science e Deep Learning
-- Machine Learning (Avançado)
-- Inteligência Artificial Generativa (Gen. IA)
-- Storytelling e Comunicação de Dados
+* **MLOps e Engenharia de Dados**: Foco na limpeza, transformação (ETL) e colocação de modelos em produção com Docker e Cloud.
+* **Domínio em Agronegócio**: Aplicação de Data Science para maximizar o impacto e o crescimento no setor agropecuário.
+* **Storytelling de Dados**: Comunicação efetiva de insights técnicos para stakeholders não-técnicos.
 
 ---
 
-## 📧 Meus Links Profissionais
+## 💼 Conecte-se Comigo
 
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/) |
-| **Email** | [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rilen.lima@gmail.com) |
-| **Showcase Visual** | [![Portfolio](https://img.shields.io/badge/Portfólio%20Visual-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rilen.github.io/portfolio/) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rilen.lima@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rilen)
+
+---
+*Atualizado em 2025. Baseado no Portfólio de Rilen - Cientista de Dados.*

@@ -1,55 +1,56 @@
-# 🌟 Rilen - Cientista de Dados | Portfolio Showcase 📊
+# 🌟 Rilen Tavares | Expert em Big Data & Resiliência Digital 📊
 
-## Olá, sou um **Cientista de Dados** e **Especialista em Big Data** ⛏️🔍
+## Olá! Sou um Especialista em Infraestrutura Sênior e Cientista de Dados ⛏️🔍
 
-Atuo há **mais de 25 anos na área de TI** e sou um entusiasta da evolução da tecnologia e da Inteligência Artificial. Minha trajetória permite unir a robustez da infraestrutura tradicional com a agilidade das soluções analíticas modernas.
+Com mais de **25 anos de expertise em TI**, minha carreira foi construída no ecossistema **Open Source** e amadurecida na **Ciência de Dados**. Uno a robustez da infraestrutura crítica com a agilidade de sistemas autônomos e preditivos.
 
----
-
-## 🎯 Portfólio Completo e Projetos Detalhados
-
-Para uma experiência visual completa do meu trabalho, dos modelos de Machine Learning e dos Dashboards que desenvolvi, visite meu portfólio interativo:
-
-➡️ **[ACESSE O MEU SHOWCASE (PORTFÓLIO VISUAL) AQUI](https://rilen.github.io/portfolio/)**
+> **Diferencial Estratégico:** Como usuário de **implante coclear**, desenvolvi uma capacidade de **Deep Work (foco profundo)** e comunicação técnica impecável, competências essenciais para arquitetura de dados e análise de ambientes críticos.
 
 ---
 
-## 🛠️ Minhas Ferramentas e Stacks Principais
+## 🎯 Portfólio & Showcase Visual
 
-Minha capacidade de entrega é construída com as seguintes tecnologias:
+Para uma experiência imersiva nos meus modelos de Machine Learning e Dashboards estratégicos:
 
-| Categoria | Ferramentas |
+➡️ **[ACESSE MEU PORTFÓLIO INTERATIVO AQUI](https://rilen.github.io/portfolio/)**
+
+---
+
+## 🛠️ Stack Tecnológica & Ferramentas
+
+Minha capacidade de entrega é fundamentada em ferramentas que escalam do diagnóstico à produção:
+
+| Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Data Science/ML** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6600cc?style=for-the-badge&logo=llamaindex&logoColor=white) |
-| **DevOps/Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| **Visualização/Web** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Data Science / IA** | ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6600cc?style=flat-square&logo=llamaindex&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Linguagens & BD** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00000F?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Visualização** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos de Engenharia em Destaque
 
-Minha expertise envolve transformar a complexidade de Big Data em automação e resultados mensuráveis:
+Transformo telemetria e Big Data em valor de negócio mensurável:
 
-- **[IrrigaSeca - Análise Preditiva de Estresse Hídrico](https://github.com/rilen/IrrigaSeca):** Sistema inteligente de irrigação de precisão que utiliza IA, GeoData e conceitos de MLOps para otimização no agronegócio.
-- **[xlsx2chart - Excel em Insights](https://github.com/Rilen/xlsx2chart):** Ferramenta de automação que gera gráficos a partir de arquivos Excel, facilitando a visualização rápida de dados.
-- **[Geoprocessamento Agro](https://github.com/rilen/PROJETO-GEOPROCESSAMENTO-AGRO):** Análise para monitoramento de saúde de culturas através de dados geoespaciais.
-
----
-
-## 📈 Especialidades & Visão de Negócio
-
-* **MLOps e Engenharia de Dados**: Foco na limpeza, transformação (ETL) e colocação de modelos em produção com Docker e Cloud.
-* **Domínio em Agronegócio**: Aplicação de Data Science para maximizar o impacto e o crescimento no setor agropecuário.
-* **Storytelling de Dados**: Comunicação efetiva de insights técnicos para stakeholders não-técnicos.
+- **[IrrigaSeca 1.15](https://github.com/rilen/IrrigaSeca):** Solução de **MLOps & IoT** para Agricultura de Precisão. Automação baseada em parâmetros agronômicos reais (PMP/CC) e telemetria dinâmica.
+- **[xlsx2chart](https://github.com/Rilen/xlsx2chart):** Pipeline de **Engenharia de Dados** que realiza o parsing e consolidação de XLSX complexos em dashboards dinâmicos (Vanilla JS).
+- **[Geoprocessamento Agro](https://github.com/rilen/PROJETO-GEOPROCESSAMENTO-AGRO):** Monitoramento de saúde de culturas via satélite e análise de dados geoespaciais.
 
 ---
 
-## 💼 Conecte-se Comigo
+## 📖 Atualmente Focado em Aprofundamento Sênior
+- **Arquitetura de IA Generativa (LLMs)** e RAG com LlamaIndex.
+- **Cybersecurity & Resiliência Digital:** GRC nativo em projetos de dados.
+- **Deep Learning** aplicado à visão computacional no agronegócio.
+
+---
+
+## 💼 Conecte-se com a Vida Nova
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rilen.lima@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rilen)
 
 ---
-*Atualizado em 2025. Baseado no Portfólio de Rilen - Cientista de Dados.*
+*Maturidade profissional e paixão técnica por Python e IA para gerar resultados imediatos.*

@@ -83,8 +83,7 @@ Monitoramento de saúde de culturas via imagens de satélite e análise de índi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rilen&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rilen&layout=compact&theme=dark&hide_border=true)
+![Rilen's GitHub Activity](https://ghchart.rshah.org/Rilen)
 
 </div>
 

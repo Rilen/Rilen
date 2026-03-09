@@ -1,14 +1,47 @@
 # Rilen T. L. - DataScience
 
-**25+ anos em TI - Especialistas em BigData | IA | CyberSecurity** 
+**25+ anos em TI - Especialista em Big Data | IA | CyberSecurity**
 
-***Bootcamp -> Front End e Back End***
+***Full Stack Development & Data Intelligence***
 
 Rio das Ostras · RJ · Brasil · PcD (Implante Coclear)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rilen.lima@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://rilen.github.io/portfolio/)
+
+---
+
+## 🗣️ Idiomas e Comunicação
+
+| Idioma | Nível | Badge |
+|:---|:---|:---|
+| **Português** | Nativo | ![Português](https://img.shields.io/badge/Língua-Nativa-green?style=flat-square) |
+| **Inglês** | Técnico / Básico | ![Inglês](https://img.shields.io/badge/Inglês-Técnico%20/%20Básico-yellow?style=flat-square) |
+| **Acessibilidade** | PcD (Implante Coclear) | ![Acessibilidade](https://img.shields.io/badge/Foco-Inclusão%20Digital-orange?style=flat-square) |
+
+---
+
+## 🧠 Soft Skills & Liderança
+
+| Categoria | Competências |
+|:---|:---|
+| **Gestão** | Mentoria de Equipes · Gestão de Projetos Ágeis (Scrum/Kanban) |
+| **Resolução** | Análise Crítica de Dados · Resolução de Problemas Complexos |
+| **Estratégia** | Visão de Negócio (BI) · Implementação de Políticas de GRC |
+| **Cultura** | Aprendizagem Contínua (Lifelong Learning) · Ética em IA |
+
+---
+
+## ⚙️ Hard Skills (Expertise Técnica)
+
+| Domínio | Competências Especialistas |
+|:---|:---|
+| **Engenharia de Dados** | Modelagem Dimensional (Star/Snowflake) · ETL/ELT Pipelines · Data Lakehousing |
+| **Inteligência Artificial** | Fine-tuning de LLMs · RAG (Retrieval-Augmented Generation) · NLP · Visão Computacional |
+| **CyberSecurity & GRC** | Hardening de Sistemas · LGPD Compliance · Análise de Vulnerabilidades · Gestão de Risco |
+| **Arquitetura Cloud** | Serverless Architecture · Microserviços · Infraestrutura como Código (IaC) |
+| **Governança** | Qualidade de Dados (Data Quality) · Linhagem de Dados · Catálogo de Dados |
 
 ---
 
@@ -41,7 +74,7 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 | **Infra / Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white) |
 | **Data Sources** | ![API](https://img.shields.io/badge/Data-Open--Meteo%20%7C%20IBGE-blue?style=flat-square) |
 
-[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://preve-ostras.web.app)
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)](https://preve-ostras.web.app)
 
 ---
 
@@ -54,7 +87,7 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 | **Infra / Hosting** | ![Firebase](https://img.shields.io/badge/Firebase%20Hosting-FF6F00?style=flat-square&logo=firebase&logoColor=white) |
 | **DevOps** | ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
-[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://bibleds.web.app/)
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)](https://bibleds.web.app/)
 
 ---
 
@@ -67,7 +100,8 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 | **Data Engineering** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | **Hardware / IoT** | ![Telemetria](https://img.shields.io/badge/Telemetria-IoT-green?style=flat-square) ![MQTT](https://img.shields.io/badge/Protocolo-MQTT%2FHTTP-blue?style=flat-square) |
 
-[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://rilen.github.io/IrrigaSeca/)
+[![Demo](https://img.shields.io/badge/Documentação-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://rilen.github.io/IrrigaSeca/)
+
 ---
 
 ### 🏛️ [Sindi-Fácil](https://github.com/Rilen/sindi-facil)
@@ -79,7 +113,7 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 | **Full Stack** | ![Firebase Auth](https://img.shields.io/badge/Firebase-Auth-FF6F00?style=flat-square&logo=firebase&logoColor=white) ![Firestore](https://img.shields.io/badge/Firebase-Database-FF6F00?style=flat-square&logo=firebase&logoColor=white) |
 | **Segurança** | ![GRC](https://img.shields.io/badge/Auth-Security%20First-blueviolet?style=flat-square) |
 
-[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://sindi-facil.web.app/)
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)](https://sindi-facil.web.app/)
 
 ---
 
@@ -92,20 +126,18 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 | **Data Engine** | ![XLSX](https://img.shields.io/badge/Parsing-XLSX-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 | **Interface** | ![Dashboards](https://img.shields.io/badge/Charts-Dynamic-orange?style=flat-square) |
 
-[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://rilen.github.io/xlsx2chart/)
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-222222?style=for-the-badge&logo=github&logoColor=white)](https://rilen.github.io/xlsx2chart/)
 
 ---
 
-### ⛪ [Coroinhas](https://github.com/Rilen/coroinhas) · *Gestão de Escalas e Engajamento*
-> **JavaScript · HTML5 · CSS3 · Mobile-First**
-
-Solução prática para organização de escalas, focada em acessibilidade e rapidez de carregamento. O projeto utiliza uma arquitetura baseada em padrões web fundamentais para garantir compatibilidade em qualquer dispositivo móvel.
+### ⛪ [Coroinhas](https://github.com/Rilen/coroinhas)
+**Gestão de Escalas e Engajamento**
 
 | Camada | Tecnologias |
 |:---|:---|
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Lógica** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Design** | ![Mobile First](https://img.shields.io/badge/Design-Mobile--First-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Responsivo](https://img.shields.io/badge/UI-Responsive-green?style=flat-square) |
+| **Design** | ![Mobile First](https://img.shields.io/badge/Design-Mobile--First-7952B3?style=flat-square) ![Responsivo](https://img.shields.io/badge/UI-Responsive-green?style=flat-square) |
 
 ---
 
@@ -133,7 +165,7 @@ Solução prática para organização de escalas, focada em acessibilidade e rap
 - Tecnólogo em **Ciência de Dados** · Descomplica (2023–2025)
 - Pós-graduação em **Big Data** · Faculdade Iguaçu (2025–2026)
 - Pós-graduação em **IA na Prática** · FAMEF (2025–2026)
-- MBA em ***Segurança da Informação** · Descomplica (2025–2026)
+- MBA em **Segurança da Informação** · Descomplica (2025–2026)
 - Computação e TI · Universidade Federal Fluminense (2014)
 
 ---

@@ -1,6 +1,9 @@
-# Rilen Tavares · Data Scientist & Engenheiro de Plataformas
+# Rilen T. L. - DataScience
 
-**25+ anos em infraestrutura crítica → Ciência de Dados, IA & Full Stack**  
+**25+ anos em TI Especialistas em BigData | IA | CyberSecurity** 
+
+***Bootcamp -> Front End e Back End***
+
 Rio das Ostras · RJ · Brasil · PcD (Implante Coclear)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/)

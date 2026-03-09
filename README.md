@@ -25,49 +25,89 @@ Rio das Ostras · RJ · Brasil · PcD (Implante Coclear)
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Projetos e Tecnologias (Stack Individualizada)
 
-### 🌊 [Preve-Ostras](https://github.com/Rilen/preve-ostras) · *Sistema de Inteligência Territorial*
-> **TypeScript · React 19 · D3.js · Firebase · Python**
+Abaixo, a decomposição técnica de cada projeto principal, detalhando as camadas de desenvolvimento e ferramentas utilizadas.
 
-Plataforma de análise preditiva em tempo quase real para o município de Rio das Ostras. Cruza dados de maré, precipitação e densidade demográfica (IBGE SIDRA + Open-Meteo) para gerar um **Índice de Resiliência Urbana (0–100)** por setor geográfico — ferramenta de apoio a gestores de defesa civil e planejamento urbano.
+---
+
+### 🌊 [Preve-Ostras](https://github.com/Rilen/preve-ostras)
+**Sistema de Inteligência Territorial**
+
+| Camada | Tecnologias |
+|:---|:---|
+| **Frontend** | ![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Data / Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) |
+| **Infra / Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white) |
+| **Data Sources** | ![API](https://img.shields.io/badge/Data-Open--Meteo%20%7C%20IBGE-blue?style=flat-square) |
 
 [![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://preve-ostras.web.app)
 
 ---
 
-### 📖 [BibleDS](https://github.com/Rilen/BibleDS) · *Aplicação Angular + Firebase*
-> **Angular 21 · TypeScript · SCSS · Firebase Hosting**
+### 📖 [BibleDS](https://github.com/Rilen/BibleDS)
+**Aplicação Angular + Firebase**
 
-Aplicação web moderna construída com Angular CLI v21 e deploy automatizado via GitHub Actions para Firebase Hosting. Demonstra domínio do ecossistema Angular com pipelines CI/CD.
+| Camada | Tecnologias |
+|:---|:---|
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular%2021-DD0031?style=flat-square&logo=angular&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) |
+| **Infra / Hosting** | ![Firebase](https://img.shields.io/badge/Firebase%20Hosting-FF6F00?style=flat-square&logo=firebase&logoColor=white) |
+| **DevOps** | ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
----
-
-### 🏛️ [Sindi-Fácil](https://github.com/Rilen/sindi-facil) · *Gestão Sindical Digital*
-> **TypeScript · Firebase · Full Stack**
-
-Plataforma de gestão para entidades sindicais, integrando autenticação, banco de dados em nuvem e interface responsiva.
-
----
-
-### 🌱 [IrrigaSeca](https://github.com/rilen/IrrigaSeca) · *MLOps & IoT para Agricultura de Precisão*
-> **Python · scikit-learn · IoT**
-
-Automação de irrigação baseada em parâmetros agronômicos reais (PMP/CC) com telemetria dinâmica e modelos preditivos de umidade do solo.
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://bibleds.web.app/)
 
 ---
 
-### 📊 [xlsx2chart](https://github.com/Rilen/xlsx2chart) · *Pipeline de Engenharia de Dados*
-> **JavaScript · Parsing XLSX**
+### 🌱 [IrrigaSeca](https://github.com/rilen/IrrigaSeca)
+**MLOps & IoT para Agricultura de Precisão**
 
-Pipeline que consolida planilhas XLSX complexas em dashboards dinâmicos (Vanilla JS), com foco em performance e zero dependências externas.
+| Camada | Tecnologias |
+|:---|:---|
+| **Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Data Engineering** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Hardware / IoT** | ![Telemetria](https://img.shields.io/badge/Telemetria-IoT-green?style=flat-square) ![MQTT](https://img.shields.io/badge/Protocolo-MQTT%2FHTTP-blue?style=flat-square) |
+
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://rilen.github.io/IrrigaSeca/)
+---
+
+### 🏛️ [Sindi-Fácil](https://github.com/Rilen/sindi-facil)
+**Gestão Sindical Digital**
+
+| Camada | Tecnologias |
+|:---|:---|
+| **Desenvolvimento** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Full Stack** | ![Firebase Auth](https://img.shields.io/badge/Firebase-Auth-FF6F00?style=flat-square&logo=firebase&logoColor=white) ![Firestore](https://img.shields.io/badge/Firebase-Database-FF6F00?style=flat-square&logo=firebase&logoColor=white) |
+| **Segurança** | ![GRC](https://img.shields.io/badge/Auth-Security%20First-blueviolet?style=flat-square) |
+
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://sindi-facil.web.app/)
 
 ---
 
-### 🛰️ [Geoprocessamento Agro](https://github.com/rilen/PROJETO-GEOPROCESSAMENTO-AGRO) · *Remote Sensing*
-> **Python · Dados Geoespaciais**
+### 📊 [xlsx2chart](https://github.com/Rilen/xlsx2chart)
+**Pipeline de Engenharia de Dados**
 
-Monitoramento de saúde de culturas via imagens de satélite e análise de índices espectrais (NDVI e derivados).
+| Camada | Tecnologias |
+|:---|:---|
+| **Core** | ![JavaScript](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Data Engine** | ![XLSX](https://img.shields.io/badge/Parsing-XLSX-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Interface** | ![Dashboards](https://img.shields.io/badge/Charts-Dynamic-orange?style=flat-square) |
+
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://rilen.github.io/xlsx2chart/)
+
+---
+
+### ⛪ [Coroinhas](https://github.com/Rilen/coroinhas) · *Gestão de Escalas e Engajamento*
+> **Angular · TypeScript · Firebase · Progressive Web App (PWA)**
+
+Sistema focado na organização e escala de coroinhas e acólitos. A aplicação utiliza o poder do Firebase para sincronização em tempo real e autenticação, oferecendo uma interface fluida construída com Angular.
+
+| Camada | Tecnologias |
+|:---|:---|
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend / Infra** | ![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white) ![Hosting](https://img.shields.io/badge/Hosting-Firebase-FF6F00?style=flat-square) |
+| **Recursos** | ![PWA](https://img.shields.io/badge/PWA-Ready-8A2BE2?style=flat-square) ![Realtime](https://img.shields.io/badge/Database-Realtime-blue?style=flat-square) |
+
+[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://pnsc-coroinhas.web.app/)
 
 ---
 

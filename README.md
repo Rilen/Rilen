@@ -1,6 +1,6 @@
 # Rilen T. L. - DataScience
 
-**25+ anos em TI Especialistas em BigData | IA | CyberSecurity** 
+**25+ anos em TI - Especialistas em BigData | IA | CyberSecurity** 
 
 ***Bootcamp -> Front End e Back End***
 
@@ -9,17 +9,6 @@ Rio das Ostras · RJ · Brasil · PcD (Implante Coclear)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rilen.lima@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://rilen.github.io/portfolio/)
-
----
-
-## Sobre
-
-Supervisor de Governança de TIC na Prefeitura de Rio das Ostras, com trajetória que une **infraestrutura GNU/Linux** (25 anos) à **Ciência de Dados e desenvolvimento Full Stack**. Construo soluções que nascem seguras — porque arquitetura, GRC e análise preditiva estão no mesmo DNA.
-
-Diferenciais:
-- Único profissional que une **hardening de servidores + modelagem preditiva + desenvolvimento web** em um mesmo ciclo de entrega.
-- **Deep Work nativo**: usuário de implante coclear, desenvolvi foco e comunicação técnica de alta precisão em ambientes críticos.
-- Da **telemetria IoT ao deploy Firebase** — entrego da infraestrutura ao front-end.
 
 ---
 

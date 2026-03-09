@@ -95,7 +95,7 @@ Monitoramento de saúde de culturas via imagens de satélite e análise de índi
 - Tecnólogo em **Ciência de Dados** · Descomplica (2023–2025)
 - Pós-graduação em **Big Data** · Faculdade Iguaçu (2025–2026)
 - Pós-graduação em **IA na Prática** · FAMEF (2025–2026)
-- **MBA em Segurança da Informação** · Descomplica (2025–2026)
+- MBA em ***Segurança da Informação** · Descomplica (2025–2026)
 - Computação e TI · Universidade Federal Fluminense (2014)
 
 ---

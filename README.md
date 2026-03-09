@@ -65,7 +65,7 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 ---
 
 ### 🌊 [Preve-Ostras](https://github.com/Rilen/preve-ostras)
-**Sistema de Inteligência Territorial**
+> **Sistema de Inteligência de Monitoramento Territorial** > Um painel com vastas informações para pronto atendimento e prevenção de enchentes decorrentes de chuvas torrenciais.
 
 | Camada | Tecnologias |
 |:---|:---|
@@ -78,8 +78,28 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 
 ---
 
+### ⚡ [Boostmark](https://github.com/Rilen/boostmark)
+> **Análise de Marketing e Vendas Balanceadas dos Produtos** > Ferramenta focada em otimização e análise de performance de aplicações web para Analistas de Marketing, permitindo identificar oportunidades para melhor venda de produtos em várias filiais.
+
+| Camada | Tecnologias |
+|:---|:---|
+| **Core** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Análise** | ![Benchmarking](https://img.shields.io/badge/Focus-Performance-green?style=flat-square) ![Profiling](https://img.shields.io/badge/DevTools-Profiling-blueviolet?style=flat-square) |
+
+---
+
+### ⚙️ [Pipeline](https://github.com/Rilen/pipeline)
+> **Tratamento de Informações Documentais** > Pipelines com Inteligência Artificial para dados robustos, focando em extração, transformação e carga (ETL) com alta disponibilidade.
+
+| Camada | Tecnologias |
+|:---|:---|
+| **Linguagem** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Processamento** | ![ETL](https://img.shields.io/badge/Pipeline-ETL%20/%20ELT-blue?style=flat-square) ![Automated](https://img.shields.io/badge/Workflow-Automation-orange?style=flat-square) |
+
+---
+
 ### 📖 [BibleDS](https://github.com/Rilen/BibleDS)
-**Aplicação Angular + Firebase**
+> **Bíblia com Insights e Inteligência Artificial** > Descubra as maravilhas da Bíblia através da análise de dados e insights inteligentes.
 
 | Camada | Tecnologias |
 |:---|:---|
@@ -92,7 +112,7 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 ---
 
 ### 🌱 [IrrigaSeca](https://github.com/rilen/IrrigaSeca)
-**MLOps & IoT para Agricultura de Precisão**
+> **MLOps & IoT para Agricultura de Precisão** > Exemplo de irrigação controlada em diferentes tipos de solo (arenoso, argiloso, etc.), utilizando modelos preditivos para otimizar o controle de umidade.
 
 | Camada | Tecnologias |
 |:---|:---|
@@ -105,7 +125,7 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 ---
 
 ### 🏛️ [Sindi-Fácil](https://github.com/Rilen/sindi-facil)
-**Gestão Sindical Digital**
+> **Gestão Sindical Digital** > Sistema essencial para controle administrativo de Síndicos e Portarias, promovendo transparência para moradores e conformidade legal.
 
 | Camada | Tecnologias |
 |:---|:---|
@@ -118,7 +138,7 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 ---
 
 ### 📊 [xlsx2chart](https://github.com/Rilen/xlsx2chart)
-**Pipeline de Engenharia de Dados**
+> **Pipeline de Engenharia de Dados** > Transforme dados brutos em insights visuais através de processamento automatizado de planilhas Excel padronizadas.
 
 | Camada | Tecnologias |
 |:---|:---|
@@ -131,7 +151,7 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 ---
 
 ### ⛪ [Coroinhas](https://github.com/Rilen/coroinhas)
-**Gestão de Escalas e Engajamento**
+> **Gestão de Escalas e Engajamento** > Aplicativo mobile-first com sistema de sorteio inteligente para distribuição equitativa de vagas em escalas litúrgicas.
 
 | Camada | Tecnologias |
 |:---|:---|
@@ -156,18 +176,3 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 - **Arquitetura de IA Generativa (LLMs)** e RAG com LlamaIndex aplicados a dados públicos.
 - **Angular + Firebase** — aprofundamento em arquitetura de SPAs escaláveis.
 - **Deep Learning** para visão computacional no agronegócio.
-- **Cybersecurity & GRC** nativo em todos os projetos de dados.
-
----
-
-## 🎓 Formação
-
-- Tecnólogo em **Ciência de Dados** · Descomplica (2023–2025)
-- Pós-graduação em **Big Data** · Faculdade Iguaçu (2025–2026)
-- Pós-graduação em **IA na Prática** · FAMEF (2025–2026)
-- MBA em **Segurança da Informação** · Descomplica (2025–2026)
-- Computação e TI · Universidade Federal Fluminense (2014)
-
----
-
-*Infraestrutura sólida. Dados inteligentes. Código que vai para produção.*

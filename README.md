@@ -97,17 +97,15 @@ Abaixo, a decomposição técnica de cada projeto principal, detalhando as camad
 ---
 
 ### ⛪ [Coroinhas](https://github.com/Rilen/coroinhas) · *Gestão de Escalas e Engajamento*
-> **Angular · TypeScript · Firebase · Progressive Web App (PWA)**
+> **JavaScript · HTML5 · CSS3 · Mobile-First**
 
-Sistema focado na organização e escala de coroinhas e acólitos. A aplicação utiliza o poder do Firebase para sincronização em tempo real e autenticação, oferecendo uma interface fluida construída com Angular.
+Solução prática para organização de escalas, focada em acessibilidade e rapidez de carregamento. O projeto utiliza uma arquitetura baseada em padrões web fundamentais para garantir compatibilidade em qualquer dispositivo móvel.
 
 | Camada | Tecnologias |
 |:---|:---|
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Backend / Infra** | ![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white) ![Hosting](https://img.shields.io/badge/Hosting-Firebase-FF6F00?style=flat-square) |
-| **Recursos** | ![PWA](https://img.shields.io/badge/PWA-Ready-8A2BE2?style=flat-square) ![Realtime](https://img.shields.io/badge/Database-Realtime-blue?style=flat-square) |
-
-[![Demo](https://img.shields.io/badge/Demo%20ao%20Vivo-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://pnsc-coroinhas.web.app/)
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Lógica** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Design** | ![Mobile First](https://img.shields.io/badge/Design-Mobile--First-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Responsivo](https://img.shields.io/badge/UI-Responsive-green?style=flat-square) |
 
 ---
 

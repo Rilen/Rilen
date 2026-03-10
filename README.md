@@ -1,4 +1,6 @@
-# Rilen T. L. - DataScience
+
+
+# Rilen T. L. - DataScience 🎲🔍
 
 **25+ anos em TI - Especialista em Big Data | IA | CyberSecurity**
 
@@ -18,7 +20,7 @@ Rio das Ostras · RJ · Brasil · PcD (Implante Coclear)
 |:---|:---|:---|
 | **Português** | Nativo | ![Português](https://img.shields.io/badge/Língua-Nativa-green?style=flat-square) |
 | **Inglês** | Técnico / Básico | ![Inglês](https://img.shields.io/badge/Inglês-Técnico%20/%20Básico-yellow?style=flat-square) |
-| **Acessibilidade** | PcD (Implante Coclear) | ![Acessibilidade](https://img.shields.io/badge/Foco-Inclusão%20Digital-orange?style=flat-square) |
+| **Acessibilidade** | PcD (Implante Coclear) | ![Acessibilidade](https://img.shields.io/badge/Foco-Deep_Work_Nativo-orange?style=flat-square) |
 
 ---
 

@@ -71,6 +71,11 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 > **Sistema de Inteligência de Monitoramento Territorial**  
 > Painel avançado para pronto atendimento e prevenção de enchentes em Rio das Ostras baseado em dados meteorológicos reais.
 
+#### 🛠️ Stack Técnica & Inovação
+*   **Geointeligência**: Integração com APIs de meteorologia (`Open-Meteo`) e dados geográficos do `IBGE`.
+*   **Visualização Reativa**: Gráficos dinâmicos com `D3.js` integrados ao ecossistema `React 19`.
+*   **Serverless Integration**: Backend escalável utilizando `Firebase` para gerenciamento de dados críticos em tempo real.
+
 | Camada | Tecnologias |
 |:---|:---|
 | **Frontend** | ![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
@@ -82,12 +87,8 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 ---
 
 ### 🤖 [Nelir AI Engine](https://github.com/Rilen/portfolio)
-> **螺 No Bot to Automaton? Much more than that!**  
+> **No Bot to Automaton? Much more than that!**  
 > Aprendizado Dirigido + Orquestração de LLMs rodando direto no Edge Computing. Um orquestrador de conhecimento sênior integrado ao portfólio.
-
-<!--<div align="center">
-    <img src="./nelir_banner.png" alt="Nelir AI Banner" width="80%" style="border-radius: 8px; margin: 15px 0;">
-</div> -->
 
 #### 🛠️ Stack Técnica & Inovação
 *   **Orquestração AI**: `Gemini 1.5 Flash` para respostas dinâmicas e contextuais.
@@ -109,6 +110,11 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 > **Inteligência de Marketing & Sales Performance**  
 > Ferramenta de profiling e benchmarking para otimização de conversão e análise de performance web.
 
+#### 🛠️ Stack Técnica & Inovação
+*   **Web Vitals Profiling**: Ferramenta focada em análise profunda de performance (`LCP`, `FID`, `CLS`).
+*   **Estratégia de Conversão**: Insights técnicos para otimização de funis de vendas e marketing digital orientado a dados.
+*   **Benchmarking Automatizado**: Comparativo de performance entre diferentes filiais e categorias de produtos.
+
 | Camada | Tecnologias |
 |:---|:---|
 | **Core** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
@@ -120,7 +126,12 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 
 ### ⚙️ [Pipeline](https://github.com/Rilen/pipeline)
 > **Tratamento de Dados & Automação ETL**  
-> Pipelines robustos focados em extração e transformação documental com alta disponibilidade e lógica de automação.
+> Pipelines robustos focos em extração e transformação documental com alta disponibilidade e lógica de automação.
+
+#### 🛠️ Stack Técnica & Inovação
+*   **ETL Inteligente**: Automação de extração e transformação (`ELT/ETL`) para fluxos de dados documentais robustos.
+*   **Alta Disponibilidade**: Arquitetura resiliente para processamento contínuo de dados críticos sem gargalos.
+*   **Modularidade Python**: Implementação baseada em `clean code` e extensibilidade para novos conectores de dados.
 
 | Domínio | Tecnologias |
 |:---|:---|
@@ -135,6 +146,11 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 > **Gestão Sindical Digital & GRC**  
 > Ecossistema para administração de condomínios, focando em transparência, auditoria de portaria e segurança de dados.
 
+#### 🛠️ Stack Técnica & Inovação
+*   **Segurança de Identidade**: Autenticação robusta e controle de acesso hierárquico (`RBAC`) via `Firebase Auth`.
+*   **GRC Rooted**: Arquitetura desenhada para conformidade com `LGPD` e auditoria administrativa completa.
+*   **Serverless Ops**: Persistência de dados escalável e reativa com `Firestore` para notificações instantâneas.
+
 | Camada | Tecnologias |
 |:---|:---|
 | **Ecosistema** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
@@ -147,6 +163,11 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 ### 🌱 [IrrigaSeca](https://github.com/rilen/IrrigaSeca)
 > **Agro-Tech: IoT & MLOps**  
 > Sistema de irrigação inteligente com telemetria via MQTT e modelos preditivos de umidade de solo.
+
+#### 🛠️ Stack Técnica & Inovação
+*   **MLOps Aplicado**: Modelos de regressão (`scikit-learn`) integrados para predição de umidade baseados em tipo de solo.
+*   **IoT & Telemetria**: Protocolo `MQTT` para controle de hardware em tempo real com baixa latência em campo.
+*   **Eficiência Hídrica**: Otimização de recursos através de inteligência preditiva, reduzindo desperdícios na agricultura.
 
 | Domínio | Tecnologias |
 |:---|:---|
@@ -161,6 +182,11 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 > **BI Automatizado: Excel to Insights**  
 > Conversão dinâmica de planilhas complexas em dashboards interativos sem necessidade de software pesado.
 
+#### 🛠️ Stack Técnica & Inovação
+*   **Data Democratization**: Transformação instantânea de arquivos legados (`XLSX`) em ativos visuais intuitivos.
+*   **Zero Heavy-Software**: Execução 100% *client-side* (`Vanilla JS`), garantindo privacidade total dos dados do usuário.
+*   **Dashboards Dinâmicos**: Lógica de parsing otimizada para lidar com massas de dados variadas em tempo real.
+
 | Núcleo | Tecnologias |
 |:---|:---|
 | **Engine** | ![Vanilla JS](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![XLSX](https://img.shields.io/badge/Excel-Parsing-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
@@ -172,6 +198,11 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 ### 📿 [RezarSempre](https://github.com/Rilen/RezarSempre)
 > **Android Moderno & Devocional**  
 > App focado em UX e Acessibilidade, utilizando as últimas tendências do Android Jetpack.
+
+#### 🛠️ Stack Técnica & Inovação
+*   **Accessibility First**: App desenhado com foco em acessibilidade profunda (`WCAG`), integrando Material You.
+*   **Android Jetpack Moderno**: 100% desenvolvido com `Jetpack Compose`, `Coroutines` e arquitetura reativa `MVVM`.
+*   **Experience Imersiva**: Integração com `Media3` para uma experiência de oração áudio-visual fluida e contínua.
 
 | Plataforma | Tecnologias |
 |:---|:---|

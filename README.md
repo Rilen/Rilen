@@ -85,9 +85,9 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 > **螺 No Bot to Automaton? Much more than that!**  
 > Aprendizado Dirigido + Orquestração de LLMs rodando direto no Edge Computing. Um orquestrador de conhecimento sênior integrado ao portfólio.
 
-<div align="center">
+<!--<div align="center">
     <img src="./nelir_banner.png" alt="Nelir AI Banner" width="80%" style="border-radius: 8px; margin: 15px 0;">
-</div>
+</div> -->
 
 #### 🛠️ Stack Técnica & Inovação
 *   **Orquestração AI**: `Gemini 1.5 Flash` para respostas dinâmicas e contextuais.

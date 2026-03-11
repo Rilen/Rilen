@@ -4,7 +4,7 @@
 
 # Rilen T. L. - Data Intelligence & AI Architect 🎲🔍
 
-**25+ Anos de Expertise em TI | Especialista em Big Data, Cloud Architecture & CyberSecurity**
+**25+ Anos de Expertise em TI - Especialista em Big Data, Cloud Architecture & CyberSecurity**
 
 ***Transformando complexidade em insights inteligentes e resilientes.***
 

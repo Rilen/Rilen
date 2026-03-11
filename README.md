@@ -1,5 +1,6 @@
 <div align="center">
   <img src="./portfolio_banner.png" alt="Rilen's Portfolio Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+</div>
 
   # Rilen T. L. - Data Intelligence & AI Architect 🎲🔍
   
@@ -12,7 +13,7 @@
   [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://rilen.github.io/portfolio/)
 
   Rio das Ostras · RJ · Brasil · PcD (Implante Coclear - Foco Deep Work Nativo)
-</div>
+
 
 ---
 

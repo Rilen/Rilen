@@ -2,9 +2,9 @@
   <img src="./portfolio_banner.png" alt="Rilen's Portfolio Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 </div>
 
-  # Rilen T. L. - Data Intelligence & AI Architect 🎲🔍
+  #Rilen T. L. - Data Intelligence & AI Architect 🎲🔍
   
-  **25+ Anos de Expertise em TI | Especialista em Big Data, Cloud Architecture & CyberSecurity**
+  **25+ Anos de Expertise em TI - Especialista em Big Data, Cloud Architecture & CyberSecurity**
   
   ***Transformando complexidade em insights inteligentes e resilientes.***
 

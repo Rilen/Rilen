@@ -41,7 +41,7 @@
 
 | Domínio | Competências Especialistas |
 |:---|:---|
-| **Engenharia de Dados** | Modelagem Dimensional (Star/Snowflake) · ETL/ELT Pipelines · Data Lakehousing |
+| **Engenharia de Dados** | Modelagem Dimensional (Star/Snowflake) · Databricks (Medallion) · ETL/ELT Pipelines · Data Lakehousing |
 | **Inteligência Artificial** | Fine-tuning de LLMs · RAG (Retrieval-Augmented Generation) · NLP · Visão Computacional |
 | **CyberSecurity & GRC** | Hardening de Sistemas · LGPD Compliance · Análise de Vulnerabilidades · Gestão de Risco |
 | **Arquitetura Cloud** | Serverless Architecture · Microserviços · Infraestrutura como Código (IaC) |
@@ -54,6 +54,7 @@
 | Camada | Tecnologias |
 |:---|:---|
 | **IA & Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6600cc?style=flat-square&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Data Engineering** | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00A9E0?style=flat-square&logo=delta-lake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Full Stack & Mobile** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **Banco de Dados** | ![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00000F?style=flat-square&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-4db33d?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **Infra / Cloud / Edge** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![V8](https://img.shields.io/badge/Runtime-V8-444444?style=flat-square&logo=gitbook&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
@@ -64,6 +65,26 @@
 # 🚀 Projetos em Destaque
 
 Confira a arquitetura e detalhes técnicos dos meus projetos principais.
+
+---
+
+### 🧱 [SparkBrick](https://github.com/Rilen/SparkBrick)
+> **Crypto Ingestion & Medallion Engine**  
+> Motor de ingestão de alto desempenho para APIs de Criptoativos seguindo a arquitetura Medallion com governança via Unity Catalog.
+
+#### 🛠️ Stack Técnica & Inovação
+*   **Arquitetura Medallion**: Pipeline completo (Bronze, Silver, Gold) com suporte a **Schema Evolution** e limpeza rigorosa via Spark SQL.
+*   **Governança & Linhagem**: Estrutura organizada e auditável através do **Unity Catalog** para controle de acesso refinado e auditoria.
+*   **Otimização de Performance**: Implementação de **Z-Order Clustering** (40% ganho em leitura) e regras de qualidade via **DLT Expectations**.
+*   **Modern Data Engineering**: Deploy automatizado via **Databricks Asset Bundles (DABs)** para fluxos CI/CD robustos e escaláveis.
+
+| Camada | Tecnologias |
+|:---|:---|
+| **Python** | ![PySpark](https://img.shields.io/badge/PySpark-3.x-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![pytest](https://img.shields.io/badge/Testing-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
+| **Big Data** | ![Delta Lake](https://img.shields.io/badge/Delta_Lake-OSS-00A9E0?style=flat-square&logo=delta-lake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-Workflows-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+| **Gov & IaC** | ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-Governance-00B31D?style=flat-square&logo=databricks&logoColor=white) ![IaC](https://img.shields.io/badge/Bundles-DABs-orange?style=flat-square) |
+
+[![GitHub](https://img.shields.io/badge/Ver%20Repositório-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rilen/SparkBrick)
 
 ---
 

@@ -8,6 +8,10 @@
 
 <img src="portfolio_banner.png" alt="Rilen's Portfolio Banner" width="40%" style="border-radius: 12px; margin-bottom: 20px;">
 
+</div>
+
+<div align="center">
+  
 ***Transformando complexidade em insights inteligentes e resilientes.***
 
 </div>

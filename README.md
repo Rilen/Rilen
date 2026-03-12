@@ -1,18 +1,30 @@
+# Rilen T. L. - Data Intelligence & AI Architect 🎲🔍
+
+**25+ Anos de Expertise em TI - Especialista em Big Data, Cloud Architecture & CyberSecurity**
+
+**Rio das Ostras · RJ · Brasil · PcD (Implante Coclear - Foco Deep Work Nativo)**
+
+***Transformando complexidade em insights inteligentes e resilientes.***
+
 <div align="center">
-  <img src="./portfolio_banner.png" alt="Rilen's Portfolio Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 
-  # Rilen T. L. - Data Intelligence & AI Architect 🎲🔍
-  
-  **25+ Anos de Expertise em TI | Especialista em Big Data, Cloud Architecture & CyberSecurity**
-  
-  ***Transformando complexidade em insights inteligentes e resilientes.***
+<img src="portfolio_banner.png" alt="Rilen's Portfolio Banner" width="30%" style="border-radius: 12px; margin-bottom: 20px;">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rilen/)
-  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rilen.lima@gmail.com)
-  [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://rilen.github.io/portfolio/)
-
-  Rio das Ostras · RJ · Brasil · PcD (Implante Coclear - Foco Deep Work Nativo)
 </div>
+
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/rilen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rilen.lima@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://rilen.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio">
+  </a>
+</p>
 
 ---
 
@@ -248,5 +260,5 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 
 ---
 <div align="center">
-  *Transformando 25 anos de experiência técnica em soluções inteligentes e futuristas.*
+  Transformando 25 anos de experiência técnica em soluções inteligentes e futuristas. - Todos os Direitos Reservados | 2026
 </div>

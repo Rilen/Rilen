@@ -239,5 +239,5 @@ Confira a arquitetura e detalhes técnicos dos meus projetos principais.
 
 ---
 <div align="center">
-  Transformando 25 anos de experiência técnica em soluções inteligentes e futuristas. - Todos os Direitos Reservados|2026
+  Transformando 25 anos de experiência técnica em soluções inteligentes e futuristas. - Todos os Direitos Reservados | 2026
 </div>

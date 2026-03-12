@@ -1,12 +1,22 @@
-<p align="center">
-  <img src="portfolio_banner.png" alt="Rilen's Portfolio Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
-</p>
-
+<div align="center">
+  
 # Rilen T. L. - Data Intelligence & AI Architect 🎲🔍
 
 **25+ Anos de Expertise em TI - Especialista em Big Data, Cloud Architecture & CyberSecurity**
 
+**Rio das Ostras · RJ · Brasil · PcD (Implante Coclear - Foco Deep Work Nativo)**
+
+</div>
+
+<p align="center">
+  <img src="portfolio_banner.png" alt="Rilen's Portfolio Banner" width="40%" style="border-radius: 12px; margin-bottom: 20px;">
+</p>
+
+<div align="center">
+
 ***Transformando complexidade em insights inteligentes e resilientes.***
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rilen/">
@@ -19,12 +29,6 @@
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio">
   </a>
 </p>
-
-<p align="center">
-  Rio das Ostras · RJ · Brasil · PcD (Implante Coclear - Foco Deep Work Nativo)
-</p>
-
----
 
 ---
 

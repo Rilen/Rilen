@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  
+
 ***Transformando complexidade em insights inteligentes e resilientes.***
 
 </div>

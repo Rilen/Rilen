@@ -1,12 +1,10 @@
 <div align="center">
 
-  
 # Rilen T. L. - Data Intelligence & AI Architect 🎲🔍
 
-**25+ Anos de Expertise em TI - Especialista em Big Data, Cloud Architecture & CyberSecurity**
+**25+ Anos de Expertise em TI | Especialista em Big Data, Cloud Architecture & CyberSecurity**
 
 **Rio das Ostras · RJ · Brasil · PcD (Implante Coclear - Foco Deep Work Nativo)**
-
 
 </div>
 

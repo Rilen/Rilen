@@ -4,9 +4,13 @@
 
 **Rio das Ostras · RJ · Brasil · PcD (Implante Coclear - Foco Deep Work Nativo)**
 
+<div align="center">
+
 <img src="portfolio_banner.png" alt="Rilen's Portfolio Banner" width="40%" style="border-radius: 12px; margin-bottom: 20px;">
 
 ***Transformando complexidade em insights inteligentes e resilientes.***
+
+</div>
 
 <p align="center">
 
@@ -20,8 +24,6 @@
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio">
   </a>
 </p>
-
-</div>
 
 ---
 

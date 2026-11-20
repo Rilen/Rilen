@@ -8,13 +8,19 @@ I design and develop applications and explore AI-powered workflows, system integ
 
 **Interested in remote opportunities** in solution architecture, software engineering, applied AI and data engineering.
 
+## Professional presence
+
+- **[Portfolio — selected work and case studies](https://rilen.github.io/)**
+- **[LinkedIn — professional experience and network](https://www.linkedin.com/in/rilen/)**
+- **[GitHub — public code and engineering evidence](https://github.com/Rilen?tab=repositories)**
+
 ## Featured projects
 
-### [DoisCorações — Veterinary Management Platform](https://github.com/Rilen/DoisCoracoes)
+### [DoisCorações — Veterinary Management Platform](https://rilen.github.io/doiscoracoes.html)
 Full-stack veterinary management software developed for a private-sector client, covering clinical workflows, patient records, scheduling and financial operations.
 
 **Technologies:** Next.js, React, TypeScript, PostgreSQL, Prisma, tRPC.  
-*Private repository — access restricted.*
+[Public case study and approved demo](https://rilen.github.io/doiscoracoes.html) · *Private repository — access restricted.*
 
 ### [ATLAS — Governed Software Delivery](https://github.com/Rilen/atlas)
 Platform under development for identity, authorization, auditability and governed, AI-assisted software delivery. Its broader intent-to-delivery workflow is being implemented incrementally; not all envisioned stages are operational.
